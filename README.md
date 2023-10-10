@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teitrheim" alt="teitrheim" /></a> </p>
 
-- 🔭 I’m currently working on my Portfolio https://sunny-maamoul-ac12dc.netlify.app/ [Portfolio](https://github.com/Teitrheim/Portfolio.git)
+- 🔭 I’m currently working on my Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio.git)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, CMS, DESIGN, ETC...**
 
