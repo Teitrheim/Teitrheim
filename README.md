@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, CMS, DESIGN, ETC...**
 
-- 👯 My first year exam [Fighting Days](https://frolicking-melba-eddf66.netlify.app/)
+- 👯 My portfolio [Fighting Days](https://frolicking-melba-eddf66.netlify.app/)
 
 - 🤝 My first ever project [Square Eyes](https://exquisite-pegasus-a5a0d4.netlify.app/)
 
