@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas Eitrheim</h1>
-<h3 align="center">I study frontend development at Noroff</h3>
+<h3 align="center">I have studied frontend development at Noroff</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teitrheim" alt="teitrheim" /></a> </p>
 
 - 🔭 I’m currently working on my Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio.git)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, CMS, DESIGN, ETC...**
+- 🌱 I’m currently learning **HTML, CSS, JS, CMS, REACT, DESIGN, ETC...**
 
 - 👯 My portfolio https://sunny-maamoul-ac12dc.netlify.app/ [Portfolio](https://github.com/Teitrheim/Portfolio.git)
 
