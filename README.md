@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, CMS, REACT, DESIGN, ETC...**
 
-- 🤝 My second exam project [Holidaze](https://github.com/Teitrheim/Holidaze.git)
+- 🤝 My second exam project [Holidaze](https://github.com/Teitrheim/Holidaze.git) Live site: (https://shiny-wisp-e94719.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teitrheim/Portfolio2.git](https://github.com/Teitrheim/Portfolio2.git)
 
