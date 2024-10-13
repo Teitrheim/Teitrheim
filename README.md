@@ -3,17 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teitrheim" alt="teitrheim" /></a> </p>
 
-- 🔭 I’m currently working on my Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio.git)
+- 🔭 My Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio2.git) Live site: (https://graceful-churros-43fdd1.netlify.app/)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, CMS, REACT, DESIGN, ETC...**
 
-- 👯 My portfolio https://sunny-maamoul-ac12dc.netlify.app/ [Portfolio](https://github.com/Teitrheim/Portfolio.git)
+- 🤝 My second exam project [Holidaze](https://github.com/Teitrheim/Holidaze.git)
 
-- 🤝 My first ever project [Square Eyes](https://exquisite-pegasus-a5a0d4.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Teitrheim/Portfolio.git](https://github.com/Teitrheim/Portfolio.git)
-
-- 📝 I regularly write articles on [https://github.com/Teitrheim/Portfolio.git](https://github.com/Teitrheim/Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Teitrheim/Portfolio2.git](https://github.com/Teitrheim/Portfolio2.git)
 
 - 💬 Ask me about **Anything**
 
