@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teitrheim" alt="teitrheim" /></a> </p>
 
-- 🔭 My Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio2.git) Live site: (https://graceful-churros-43fdd1.netlify.app/)
+- 🔭 My Portfolio [Portfolio](https://github.com/Teitrheim/Portfolio2.git) Live site: (https://teitrheimsnewportfolio.netlify.app/))
 
 - 🌱 I’m currently learning **HTML, CSS, JS, CMS, REACT, DESIGN, ETC...**
 
